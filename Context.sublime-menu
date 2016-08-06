@@ -1,0 +1,16 @@
+[
+{ "caption": "Webify", 
+	"id": "Webify", 
+	"children":
+	[
+	{
+	"caption": "Webify Selection",
+	"command": "webify"
+	},
+	{
+	"caption": "UnWebify Selection",
+	"command": "unwebify"
+	}
+	]
+}
+]
